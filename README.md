@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/gauravpawar1349" target="blank"><img src="https://img.shields.io/twitter/follow/gauravpawar1349?logo=twitter&style=for-the-badge" alt="gauravpawar1349" /></a> </p>
 
-- 🔭 I’m currently working on [Svatahshikshaarthi](https://github.com/GAURAV142004/Svatahshikshaarthi)
 
 - 🌱 I’m currently learning **Computer Engineering**
 
