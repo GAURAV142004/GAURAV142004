@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 💬 Ask me about **React,Figma,Firebase**
-
 - 📫 How to reach me **gauravpawar1349@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F6AJHvq61llTmVOxEMAOOtoOi3CG4vLi/view?usp=drive_link](https://drive.google.com/file/d/1F6AJHvq61llTmVOxEMAOOtoOi3CG4vLi/view?usp=drive_link)
